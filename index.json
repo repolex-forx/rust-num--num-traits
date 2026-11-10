@@ -1,0 +1,11 @@
+{
+  "org": "rust-num",
+  "repo": "num-traits",
+  "versions": [
+    {
+      "commit": "1166177ec398601d6dd4d88891cf7674f3978888",
+      "tag": "",
+      "parsed_at": "2026-11-10T07:07:57.947658+00:00"
+    }
+  ]
+}
