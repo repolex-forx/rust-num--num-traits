@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/rust-num/num-traits/commit/1166177ec398601d6dd4d88891cf7674f3978888",
       "git:hexsha": "1166177ec398601d6dd4d88891cf7674f3978888",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-10T07:07:57.946978+00:00"
     },
     {
       "@id": "https://repolex.ai/r/rust-num/num-traits/commit/659c1a73c30846dc01f0e5a62b06e02691dfe824",
