@@ -3,6 +3,11 @@
   "repo": "num-traits",
   "versions": [
     {
+      "commit": "7ec3d41d39b28190ec1d42db38021107b3951f3a",
+      "tag": "num-traits-0.2.19",
+      "parsed_at": "2026-11-22T01:13:00.364061+00:00"
+    },
+    {
       "commit": "1166177ec398601d6dd4d88891cf7674f3978888",
       "tag": "",
       "parsed_at": "2026-11-10T07:07:57.947658+00:00"
