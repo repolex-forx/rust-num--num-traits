@@ -102,6 +102,27 @@
       ],
       "ast": [
         "aggregate/ast/7ec3d41d39b28190ec1d42db38021107b3951f3a/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/7ec3d41d39b28190ec1d42db38021107b3951f3a.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "libm",
+          "ecosystem": "CARGO",
+          "version": "0.2.0",
+          "githubOrg": "rust-lang",
+          "githubRepo": "compiler-builtins",
+          "githubUrl": "https://github.com/rust-lang/compiler-builtins",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "autocfg",
+          "ecosystem": "CARGO",
+          "version": "1",
+          "githubOrg": "cuviper",
+          "githubRepo": "autocfg",
+          "githubUrl": "https://github.com/cuviper/autocfg",
+          "source": "build_file:Cargo.toml"
+        }
       ]
     }
   ],
